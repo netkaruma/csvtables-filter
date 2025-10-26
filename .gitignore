@@ -3,7 +3,8 @@ venv/
 .pylintrc
 __pycache__/
 cache/
-
+.pytest_cache
+.coverage
 #ide stuff
 .vscode
 .idea
